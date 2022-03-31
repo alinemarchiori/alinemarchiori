@@ -4,8 +4,6 @@ I am Aline,
 
 I am studying Computer Engineering at FURG.
 
-At the moment I am studying data science with the help of courses, mainly Bootcamps to have contact with projects close to reality.
-
 <!--
 **alinemarchiori/alinemarchiori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

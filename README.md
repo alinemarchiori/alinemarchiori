@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-I am Aline, 
-
-I am studying Computer Engineering at FURG.
-
 <!--
 **alinemarchiori/alinemarchiori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
